@@ -1,4 +1,5 @@
-# F# in x minutes - intro
+# Learn F# in x minutes - intro
+An attempt at a very terse F# learning list
 
 ### Basics
 - [ ] Functions
@@ -20,30 +21,29 @@ That should cover enough to build apps & have a play. Go out there and build awe
 Much more to explore when you need it / feel comfortable.
 
 ## Online REPLs
-- https://fable.io/repl/ click samples > tour of F#
-- https://dotnetfiddle.net/
-
-## Learning Resources
-- [Official MS FSharp docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
-- [fsharp for fun and profit](https://fsharpforfunandprofit.com/learning-fsharp/)
-- https://learnxinyminutes.com/docs/fsharp/
+- [fable.io](https://fable.io/repl/) click samples > tour of F#
+- [dotnetfiddle](https://dotnetfiddle.net/)
 
 ## Interactive learning
-- offline Koans: https://github.com/ChrisMarinos/FSharpKoans
-- Online with a MS account (free): https://notebooks.azure.com/Microsoft/projects/2018-Intro-FSharp/html/Introduction%20to%20FSharp.ipynb
+- [Offline F# Koans](https://github.com/ChrisMarinos/FSharpKoans)
+- [Online with a MS account (free) - notebooks](https://notebooks.azure.com/Microsoft/projects/2018-Intro-FSharp/html/Introduction%20to%20FSharp.ipynb)
+
+## Learning Resources
+- [F# Syntax in 60 seconds](https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
+- [Fsharp for fun and profit (more from the above)](https://fsharpforfunandprofit.com/learning-fsharp/)
+- [Official MS FSharp docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
+- [Learnxinyminutes](https://learnxinyminutes.com/docs/fsharp/)
+- [F# Cheatsheet](http://dungpa.github.io/fsharp-cheatsheet/)
 
 ## Setup locally
-One of the below or an online REPL
+One of these or your favourite editor with F# support
 - [Visual Studio](https://www.visualstudio.com/downloads/)
 - [VScode](https://code.visualstudio.com/) + [ionide](http://ionide.io/) + ([vscode-fsharp-refactor](https://marketplace.visualstudio.com/items?itemName=danmannock.vscode-fsharp-refactor) optional shameless plug)
 - [JetBrains Rider](https://www.jetbrains.com/rider)
-- REPL
-- youre favourite editor with F# support
+- Local REPL (FSI)
 
-## Cheatsheet
-- http://dungpa.github.io/fsharp-cheatsheet/
-
-### For Manchester F# User Group - F# Intro
+### Originally for Manchester F# User Group
 - [Manchester-F-User-Group](https://www.meetup.com/Manchester-F-User-Group/)
 - [@mancfug](https://twitter.com/mancfug)
 
+Any suggestions / improvements welcome.
