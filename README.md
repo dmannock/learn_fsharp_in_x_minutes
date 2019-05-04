@@ -42,7 +42,11 @@ One of these or your favourite editor with F# support
 - [JetBrains Rider](https://www.jetbrains.com/rider)
 - Local REPL (FSI)
 
-### Originally for Manchester F# User Group
+## License
+This work is licensed under a Creative Commons Attribution 4.0 License.
+For more information [see the full license details](https://creativecommons.org/licenses/by/4.0/)
+
+## Originally for Manchester F# User Group
 - [Manchester-F-User-Group](https://www.meetup.com/Manchester-F-User-Group/)
 - [@mancfug](https://twitter.com/mancfug)
 
