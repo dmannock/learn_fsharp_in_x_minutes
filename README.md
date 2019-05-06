@@ -23,6 +23,7 @@ Much more to explore when you need it / feel comfortable.
 ## Online REPLs
 - [fable.io](https://fable.io/repl/) click samples > tour of F#
 - [dotnetfiddle](https://dotnetfiddle.net/)
+- [REPL.it](https://repl.it/languages/fsharp)
 
 ## Interactive learning
 - [Offline F# Koans](https://github.com/ChrisMarinos/FSharpKoans)
