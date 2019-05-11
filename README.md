@@ -30,17 +30,18 @@ Much more to explore when you need it / feel comfortable.
 
 ## Learning Resources
 - [F# Syntax in 60 seconds](https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
-- [Fsharp for fun and profit (more from the above)](https://fsharpforfunandprofit.com/learning-fsharp/)
-- [Official MS FSharp docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
+- [Learning F#](https://fsharpforfunandprofit.com/learning-fsharp/)
+- [Tour of F# - Official MS FSharp docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
 - [Learnxinyminutes](https://learnxinyminutes.com/docs/fsharp/)
 - [F# Cheatsheet](http://dungpa.github.io/fsharp-cheatsheet/)
 
 ## Setup locally
-One of these or your favourite editor with F# support
-- [Visual Studio](https://www.visualstudio.com/downloads/)
-- [VScode](https://code.visualstudio.com/) + [ionide](http://ionide.io/) + ([vscode-fsharp-refactor](https://marketplace.visualstudio.com/items?itemName=danmannock.vscode-fsharp-refactor) optional shameless plug)
-- [JetBrains Rider](https://www.jetbrains.com/rider)
-- Local REPL (FSI)
+1. [.NET Core SDK](https://dotnet.microsoft.com/download) 
+2. One of these or your favourite editor with F# support
+    - [Visual Studio](https://www.visualstudio.com/downloads/)
+    - [VScode](https://code.visualstudio.com/) + [ionide](http://ionide.io/) + ([vscode-fsharp-refactor](https://marketplace.visualstudio.com/items?itemName=danmannock.vscode-fsharp-refactor) optional shameless plug)
+    - [JetBrains Rider](https://www.jetbrains.com/rider)
+    - Local FSI REPL use ```dotnet fsi``` (with the latest .NET core)
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 License.
